@@ -8,14 +8,6 @@
     <packaging>war</packaging>
     <version>1.0</version>
     <name>cicd-web-project maven webapp</name>
-    <!-- 
-    <repositories>
-        <repository>
-            <id>local-repo</id>
-            <url>file:///var/jenkins_home/.m2/repository</url>
-        </repository>
-    </repositories>
-	 -->
     <url>http://maven.apache.org</url>
     <properties>
         <!-- https://maven.apache.org/general.html#encoding-warning -->
