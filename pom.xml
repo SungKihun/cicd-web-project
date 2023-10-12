@@ -14,7 +14,7 @@
             <url>file:///var/jenkins_home/.m2/repository</url>
         </repository>
     </repositories>
-    <url>http://maven.apache.org</url>
+    <!-- <url>http://maven.apache.org</url> -->
     <properties>
         <!-- https://maven.apache.org/general.html#encoding-warning -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
